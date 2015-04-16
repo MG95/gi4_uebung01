@@ -1,5 +1,7 @@
 # Übung 1: C-Programme und Shell-Kommandos
 
+
+
 Zu praktisch jedem Betriebssystem gibt es einen Interpreter mit einer eigenen Sprache, in dem elementare Kommandos ausgeführt werden können.
 Unter Unix ist dieser Interpreter die Unix-Shell und bietet sehr vielfältige Möglichkeiten.
 In dieser einführenden Übung sollen zunächst ein paar Zusammenhänge zwischen einer solchen Shell und der über sie ausgeführten Kommandos und Programme untersucht werden.
